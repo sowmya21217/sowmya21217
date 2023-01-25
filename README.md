@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sowmya21217
-- 👀 I’m interested in Full Stack Application
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently studying in sapienza university in computer science,Aslo working as Full Stack developer
-- 💞️ I’m looking to collaborate with Company which enchances my growth for future 
+- 💞️ I’m looking to collaborate with Company which enchances my growth for future endeavour
 - 📫 you can reach me Email id: k.l.sowmya219@gmail.com
 
 <!---
